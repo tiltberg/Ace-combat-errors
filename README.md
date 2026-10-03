@@ -5,6 +5,8 @@
 ⚙️ Patch to fix "Error 01" and resolve common crashing issues. Ensures a stable, error-free game experience by fixing "Error 01" and addressing specific bugs. A lightweight utility designed to resolve critical performance and stability problems.
 💡 What this patch does :
 
+🛠️Fixes ST/WP errors
+
 🛠️ Fixes all potential multiplayer-related errors.
 
 🛠️ Fixes other errors and associated bugs: freezes, crashes, memory issues, and library conflicts.
